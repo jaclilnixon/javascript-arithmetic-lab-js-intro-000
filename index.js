@@ -6,8 +6,8 @@ function subtract(a, b) {
   return a - b
 } // subtracts two numbers
 
-function multiply () {
-
+function multiply(a, b) {
+  return a * b
 } // multiplies two numbers
 
 function divide () {
