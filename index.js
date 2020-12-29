@@ -11,7 +11,7 @@ function multiply () {
 } // multiplies two numbers
 
 function divide () {
-  
+
 } // divides one number by another
 
 function increment(n) {
