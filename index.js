@@ -10,8 +10,8 @@ function multiply(a, b) {
   return a * b
 } // multiplies two numbers
 
-function divide () {
-
+function divide(a, b) {
+  return a / b
 } // divides one number by another
 
 function increment(n) {
